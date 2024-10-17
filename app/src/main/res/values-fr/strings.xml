@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab 5</string>
+    <string name="title_text">CST2335 Lab 4</string>
+    <string name="input_hint">Tapez ici</string>
+    <string name="add_button">Ajouter</string>
+    <string name="urgent_label">Urgent</string>
+    <string name="delete_dialog_title">Voulez-vous supprimer ceci?</string>
+    <string name="delete_dialog_message">La ligne sélectionnée est: %1$d</string>
+    <string name="yes_button">Oui</string>
+    <string name="no_button">Non</string>
+</resources>

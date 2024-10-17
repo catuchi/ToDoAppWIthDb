@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab 5</string>
+    <string name="title_text">CST2335 Lab 4</string>
+    <string name="input_hint">Type Here</string>
+    <string name="add_button">Add</string>
+    <string name="urgent_label">Urgent</string>
+    <string name="delete_dialog_title">Do you want to delete this?</string>
+    <string name="delete_dialog_message">The selected row is: %1$d</string>
+    <string name="yes_button">Yes</string>
+    <string name="no_button">No</string>
+</resources>
